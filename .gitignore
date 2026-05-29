@@ -1,0 +1,52 @@
+# ========================
+# ENVIRONMENT FILES
+# ========================
+.env
+.env.*
+*.env
+
+# ========================
+# SECRET FILES
+# ========================
+*.json
+firebase-adminsdk*.json
+
+# ========================
+# DATABASE
+# ========================
+DB/*.sql
+*.sql
+
+# ========================
+# LARAVEL
+# ========================
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/storage/logs/*.log
+
+# ========================
+# CACHE / LOGS
+# ========================
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+
+# ========================
+# IDE FILES
+# ========================
+/.idea
+/.vscode
+
+# ========================
+# FLUTTER
+# ========================
+build/
+.dart_tool/
+
+# ========================
+# MISC
+# ========================
+/assets/hot
+/assets/storage

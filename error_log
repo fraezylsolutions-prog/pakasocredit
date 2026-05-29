@@ -1,0 +1,28 @@
+[17-Mar-2026 23:46:07 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.34. in /home/citytjgo/pakassocredit.com/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/citytjgo/pakassocredit.com/vendor/composer/autoload_real.php(25): require()
+#1 /home/citytjgo/pakassocredit.com/vendor/autoload.php(22): ComposerAutoloaderInit6f1f5b2d81b6668cca8399a191ca4f5d::getLoader()
+#2 /home/citytjgo/pakassocredit.com/index.php(34): require('/home/citytjgo/...')
+#3 {main}
+  thrown in /home/citytjgo/pakassocredit.com/vendor/composer/platform_check.php on line 26
+[17-Mar-2026 23:47:54 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.34. in /home/citytjgo/pakassocredit.com/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/citytjgo/pakassocredit.com/vendor/composer/autoload_real.php(25): require()
+#1 /home/citytjgo/pakassocredit.com/vendor/autoload.php(22): ComposerAutoloaderInit6f1f5b2d81b6668cca8399a191ca4f5d::getLoader()
+#2 /home/citytjgo/pakassocredit.com/index.php(34): require('/home/citytjgo/...')
+#3 {main}
+  thrown in /home/citytjgo/pakassocredit.com/vendor/composer/platform_check.php on line 26
+[17-Mar-2026 23:48:06 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.34. in /home/citytjgo/pakassocredit.com/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/citytjgo/pakassocredit.com/vendor/composer/autoload_real.php(25): require()
+#1 /home/citytjgo/pakassocredit.com/vendor/autoload.php(22): ComposerAutoloaderInit6f1f5b2d81b6668cca8399a191ca4f5d::getLoader()
+#2 /home/citytjgo/pakassocredit.com/index.php(34): require('/home/citytjgo/...')
+#3 {main}
+  thrown in /home/citytjgo/pakassocredit.com/vendor/composer/platform_check.php on line 26
+[17-Mar-2026 23:48:09 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.34. in /home/citytjgo/pakassocredit.com/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/citytjgo/pakassocredit.com/vendor/composer/autoload_real.php(25): require()
+#1 /home/citytjgo/pakassocredit.com/vendor/autoload.php(22): ComposerAutoloaderInit6f1f5b2d81b6668cca8399a191ca4f5d::getLoader()
+#2 /home/citytjgo/pakassocredit.com/index.php(34): require('/home/citytjgo/...')
+#3 {main}
+  thrown in /home/citytjgo/pakassocredit.com/vendor/composer/platform_check.php on line 26
